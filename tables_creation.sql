@@ -1,3 +1,4 @@
+-- Tables Creation
 CREATE TABLE categories (  
 		category_id				Int						NOT NULL,  
 		category_name 			Varchar(64)				NOT NULL,  
